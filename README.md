@@ -1,2 +1,2 @@
 # KNN
-This repository contains my assignment on K-Nearest Neighbors (KNN) algorithm for the data science course I am currently enrolled in. 
+This repository contains my assignment on K-Nearest Neighbors (KNN) algorithm for the data science course I am currently enrolled in.The assignment explores the fundamentals of KNN, its implementation in Python, and its application in solving classification problems. It includes a Jupyter Notebook with detailed explanations, code snippets, and examples showcasing KNN's effectiveness in making predictions based on nearest neighbors in the feature space. Through this assignment, I have gained valuable insights into the inner workings of KNN and its potential in real-world data analysis tasks.
